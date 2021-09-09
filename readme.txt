@@ -1,1 +1,1 @@
-The Game is in build\exec\ 
+The Game is in pong\build\exec\ 
