@@ -1,1 +1,1 @@
-The Game is in pong\build\exec\ 
+The Applications are always in the build\exec 
